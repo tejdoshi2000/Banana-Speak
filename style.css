@@ -1,0 +1,22 @@
+body{
+    background: rgb(222, 250, 177);
+}
+#txt-input {
+    border: 2px solid rgb(4, 245, 16);
+    width: 85%;
+    height: 85px;
+    background-color:rgb(193, 233, 247);
+    display: inline-block;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+#output {
+    border: 2px solid black;
+    width: 85%;
+    height: 85px;
+    background-color:rgb(165, 233, 250);
+    display: inline-block;
+    margin: 1rem;
+    padding: 0.5rem;
+}
