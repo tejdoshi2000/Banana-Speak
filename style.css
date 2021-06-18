@@ -18,13 +18,6 @@ nav {
     top: 0px;
 }
 
-h1 {
-    background-color: var(--primary);
-    text-align: center;
-    position: fixed;
-    top: 0;
-}
-
 #txt-input {
     border: 2px solid rgb(4, 245, 16);
     width: 85%;
@@ -49,19 +42,15 @@ h1 {
     width: 50 px;
     height: 55 px;
     border: none;
-    margin: 0.5rem 15rem;
-    padding: 0.5rem 1.5rem;
     font-family: 'Kalam', serif;
     font-size: large;
-    background-color: yellow;
+    background-color: #4CAF50;
     border: 1px solid black;
 }
 
 #btn-translate:hover {
-    background-color: lightgrey;
+    background-color: #008CBA;
     color: rgb(179, 11, 11);
-    margin: 0.5rem 15rem;
-    padding: 0.5rem 1.5rem;
     display: inline-block;
     transition-delay: 100ms;
 }
@@ -74,9 +63,6 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 115px;
-    min-height:50px;
-    margin-top:auto; 
     font-family: 'Kalam', serif;
 }
 #end {
