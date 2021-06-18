@@ -66,10 +66,10 @@ nav {
     position: absolute;
     left: 0;
     right: 0;
+    bottom: 0;
 }
 
 .end p {
-    max-width: 600px;
+    max-width: 450px;
     margin: auto;
-    bottom:0;
 }
