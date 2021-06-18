@@ -55,7 +55,7 @@ nav {
     transition-delay: 100ms;
 }
 
-footer {
+/* footer {
     background-color: yellow;
     text-align: center;
     left: 0px;
@@ -64,9 +64,17 @@ footer {
     bottom: 0;
     width: 100%;
     font-family: 'Kalam', serif;
+} */
+.foot {
+    text-align: center;
+    background-color: yellow;
 }
-#end {
-    display:inline-block;
-    margin-left:395px;
-    margin-right:395px;
+
+#footer {
+    max-width: 600px;
+    margin: auto;  
+    font-family: 'Kalam', serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
+
