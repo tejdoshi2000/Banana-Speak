@@ -60,7 +60,7 @@ nav {
     transition-delay: 100ms;
 }
 
-.end {
+/* .end {
     text-align: center;
     background-color: yellow;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -74,4 +74,15 @@ nav {
     max-width: 450px;
     margin: auto;
     bottom: 0;
+} */
+
+.foot {
+    text-align: center;
+    background-color: yellow;
+}
+
+.foot p {
+    max-width: 600px;
+    margin: auto;
+    
 }
