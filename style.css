@@ -73,4 +73,5 @@ nav {
 .end p {
     max-width: 450px;
     margin: auto;
+    bottom: 0;
 }
