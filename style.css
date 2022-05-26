@@ -23,9 +23,15 @@ nav {
     width: 85%;
     height: 85px;
     background-color:rgb(193, 233, 247);
-    display: inline-block;
-    margin: 1rem;
-    padding: 0.5rem;
+    display: block;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.textbox {
     text-align: center;
 }
 
@@ -35,8 +41,9 @@ nav {
     height: 85px;
     background-color:rgb(165, 233, 250);
     display: inline-block;
-    margin: 1rem;
-    padding: 0.5rem;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 1rem;
     text-align: center;
 }
 .button {
@@ -69,6 +76,11 @@ nav {
 .end p {
     max-width: 450px;
     margin: auto;
+}
+
+.foot {
+    text-align: center;
+    background-color: yellow;
 }
 
 /* .foot {
